@@ -1,1 +1,2 @@
-# hot-choco-
+# HotChocolate
+project c26
